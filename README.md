@@ -9,5 +9,3 @@ Updates,
 
 and more updates
 
-
-updatting to check the polling mechanism
